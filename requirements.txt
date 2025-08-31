@@ -1,6 +1,4 @@
-# Dev environment
-pip
-autopep8
-
-# App
-flask
+Flask==2.3.3
+Pillow==10.0.0
+requests==2.31.0
+gunicorn==21.2.0
